@@ -46,7 +46,7 @@ function ItemForm() {
                 </label>
 
                 <label className="dados">
-                    WhatsApp:
+                    Whatsapp:
                     <input type="number" name="tel" className="celular" placeholder="(DDD) 9 0000 0000" />
                 </label>
 
@@ -54,7 +54,7 @@ function ItemForm() {
                 <label className="dados">
 
                     <div className="botoes">
-                        Proposito:
+                        Propósito:
                         <input type="checkbox" className="checkbox" value="Mãe" />
                         <label for="Mae">Mãe</label>
 
@@ -101,7 +101,7 @@ function ItemForm() {
                 </label>
 
                 <label className="dados">
-                    O lhe trouxe, até aqui:
+                    O que lhe trouxe, até aqui?:
                     < input type="text" className="mais-informacoes" placeholder="Digite aqui" />
                 </label>
 

@@ -24,21 +24,21 @@ const dadosJason = [
         id: 4,
         nome: "Daniela,",
         estado: "Belo Horizonte",
-        depoimento: "Conheci mulheres incriveis",
+        depoimento: "Conheci mulheres incríveis",
 
     },
     {
         id: 5,
         nome: "Fernanda,",
         estado: "Belo Horizonte",
-        depoimento: "Os apoios pisicologicos, são essenciais.",
+        depoimento: "Atendimento psicológico gratuito, de qualidade.",
 
     },
     {
         id: 6,
         nome: "Patrícia,",
         estado: "Belo Horizonte",
-        depoimento: "Tem sido um grande aprendizado. ",
+        depoimento: "Tem sido uma grande experiência . ",
     },
 ]
 

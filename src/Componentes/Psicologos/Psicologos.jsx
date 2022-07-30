@@ -5,11 +5,9 @@ function Psicologos() {
   return (
     <div className="container-psicologos">.
     <div className="div-paragrafo-psicologos">
-      <h1 className="titulo-psicologos">Conheça o quadro de Apoio Psicologico</h1>
+      <h1 className="titulo-psicologos">Quadro de Apoio Psicológico</h1>
       <p className="segundo-paragrafo-pag-psicologos">
-        Se faz necessário o preenchimento do formulário para validação da Equipe
-        Técnica, sendo aprovada, liberamos o acesso e encaminhamos as instruções
-        via e-mail.
+      Atendimento Humanizado e Mulheres Maravilhosas.
       </p>
       </div>
       <div className="div-psicologos">

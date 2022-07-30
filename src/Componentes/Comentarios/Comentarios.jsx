@@ -4,7 +4,7 @@ import "./comentarios.css";
 function Comentarios() {
   return (
     <section className="sessao-comentarios">
-      <h1 className="titulo-comentarios-comunidade">Veja os comentarios das usuarias</h1>
+      <h1 className="titulo-comentarios-comunidade">Veja os comentários das Integrantes</h1>
       <div className="div-principal-comentarios">
         {dadosJason.map((item) => {
           
