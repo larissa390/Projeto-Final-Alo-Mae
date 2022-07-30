@@ -1,5 +1,5 @@
 import Comentarios from "../../Componentes/Comentarios/Comentarios";
-import imagemRamon from "../../Imagem/larissa_ramon.jpg";
+import imagemLarissa from "../../Imagem/imagemlarissa.jpg";
 import imagemMulheres from "../../Imagem/teste02.png";
 import "./home.css";
 
@@ -40,7 +40,7 @@ function Home() {
         <div className="contaniner-terceira-sessao-home">
         <div className="div-img-terceira-sessao">
           <img
-            src={imagemRamon}
+            src={imagemLarissa}
             alt="imagem mae e filho"
             className="imagem-ramon"
           ></img>
