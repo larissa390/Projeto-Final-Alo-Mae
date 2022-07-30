@@ -1,6 +1,4 @@
 import Comentarios from "../../Componentes/Comentarios/Comentarios";
-import imagemLogo from "../../Imagem/logo01.png";
-import imagemEfeito from "../../Imagem/efeito01.gif";
 import imagemRamon from "../../Imagem/larissa_ramon.jpg";
 import imagemMulheres from "../../Imagem/teste02.png";
 import "./home.css";
