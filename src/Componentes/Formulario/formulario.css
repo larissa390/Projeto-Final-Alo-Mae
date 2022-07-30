@@ -1,0 +1,126 @@
+/*Fonte*/
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+body {
+    background-image: linear-gradient(to right, #a0f3ed, #ff89bf);
+}
+
+/*Ilustracao*/
+
+
+.container-formulario {
+    display: block;
+    margin: auto; 
+    align-items: center;
+    text-align: center;
+    margin-left: 3%;
+}
+
+
+
+form label {
+    font-size: 1.5rem;
+    margin-bottom: 1.5rem;
+}
+.formulario {
+    display: block;
+    align-items: center;
+    margin-bottom: 30px;
+}
+
+
+
+/*Botão Cadastrar*/
+.botao {
+    font-size: 20px;
+    font-weight: bold;
+    background-image: linear-gradient(to right, #a0f3ed, #ff89bf);
+    border: none;
+    border-radius: 10px;
+    padding: 5px;
+    width: 100px;
+    cursor: pointer;
+    transition: all 0.5s;
+}
+
+.botao:hover {
+    background-image: linear-gradient(to right, #f10a72, #e67ab0);
+    transform: scale(1.1);
+}
+
+
+/*checkbox*/
+.checkbox {
+    background-color: darkblue;
+    margin-left: 1em;
+}
+
+.botoes {
+    display: inline-block;
+    align-items: center; 
+}
+
+
+.botoes label {
+    cursor: default;
+    padding: 0px;
+    justify-items: center;
+}
+
+
+/*Inputs */
+.dados {
+    display: block;
+    flex-wrap: wrap;
+    align-items: flex-end;
+    justify-items: center;
+    padding-bottom: 1px;
+    
+}
+
+
+
+.animacao-contato{
+  
+    height: 300px;
+    padding-left: 400px;
+    margin-bottom: 0;
+}
+
+.mais-informacoes{
+    height: 60px;
+    width: 20%;
+   
+
+}
+
+.apresentacao-formulario{
+    display: inline-block;
+    text-align: justify;
+    width: 80%;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    padding-left: 200px;
+   
+}
+.paragrafo-formulario{
+    width: 70%;
+    text-align: justify;
+    margin: 15px;
+    padding: 25px;
+    justify-items: center;
+    margin-top: auto;
+    display: inline-block;
+    font-size: 18px;
+    margin-left: 17%;
+    margin-top: 5px;
+  
+}
+
+.titulo-chamada,
+.fale-conosco{
+    text-align: center;
+    
+    
+}
+

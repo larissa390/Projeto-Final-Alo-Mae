@@ -1,0 +1,118 @@
+/*PRIMEIRA SESSÃO*/
+.primeira-sessao-home {
+  width: 100%;
+}
+
+.div-primeira-sessao {
+  font-size: 40px;
+}
+
+.primeiro-titulo-home {
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 25px;
+  color: #57042a;
+  font-family: "Nunito", sans-serif;
+  letter-spacing: 9px;
+  text-shadow: #eee4ea 2px 2px;
+}
+
+.imagem-mulheres {
+  width: 60%;
+  height: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+/*SEGUNDA SESSÃO*/
+.segunda-sessao-home{
+  display: flex;
+  justify-content: space-around;
+  width: 80%;
+  margin: auto;
+
+}
+
+.div-segunda-sessao{
+  display: inline-block;
+  vertical-align: auto;
+}
+
+.segunto-titulo-home{
+  margin-top: 40px;
+  text-align: center;
+  color: #57042a;
+  font-size: 30px;
+}
+
+
+.paragrafo-segunda-sessao{
+  margin: auto;
+  width: 100%;
+  text-align: justify;
+  line-height: 24px;
+  padding: 1rem;
+  
+}
+
+
+/*TERCEIRA SESSÃO*/
+
+.terceira-sessao-home {
+  display: flex;
+  justify-content: space-around;
+  width: 80%;
+  margin: auto;
+  
+}
+
+.contaniner-terceira-sessao-home{
+  margin-top: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+
+}
+
+.div-img-terceira-sessao {
+
+}
+
+.imagem-ramon {
+  position: relative;
+  display: inline-block;
+  margin: auto;
+  max-height: 320px;
+  border: 3px solid #6c0749;
+  border-radius: 15px;
+ 
+}
+
+.div-paragrafo-terceira-sessao {
+  display: inline-block;
+  vertical-align: auto;
+  width: 60%;
+}
+
+.titulo-terceira-sessao {
+  text-align: center;
+  
+}
+
+.paragrafo-terceira-sessao{
+  padding: 1rem;
+  width: 100%;
+  text-align: justify;
+
+}
+
+.titulo-terceira-sessao{
+  margin-top: 10px;
+  text-align: center;
+  color: #57042a;
+  font-size: 30px;
+
+}

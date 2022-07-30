@@ -1,0 +1,63 @@
+.container-comunidade {
+    width: 100%;
+    padding-top: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 30px;
+}
+
+.div-principal-comunidade {
+    width: 100%;
+    height: 110%;
+    padding-top: 30px;
+    padding-left: 10px;
+    padding-right: 20px;
+    padding-bottom: 30px;
+    text-align: justify;
+    display: flex;
+    justify-content: center;
+
+}
+
+.cards-comunidade {
+    color: rgb(7, 2, 2);
+   align-items: center;
+    padding-bottom: 20px;
+    width: 150%;
+    height: 90%;
+    border: solid 1px;
+    box-shadow: 10px 4px #6c0749;
+    background-image: url(../../Imagem/colorido4.jpg);
+    margin: 0 auto;
+
+} 
+
+
+.lista-comunidade {
+    list-style: none;
+    display: grid;
+    grid-template-columns: auto auto auto;
+
+}
+
+.titulo-comunidade {
+    text-align: center;
+}
+
+.palavra-chave {
+    text-align: justify;
+}
+
+.titulo-comunidade {
+    background-color: #6c0749;
+    color: aliceblue;
+}
+
+.palavra-chave {
+    font-weight: bold;
+    font-size: 20px;
+text-align: left;
+
+
+
+}

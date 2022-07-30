@@ -1,0 +1,46 @@
+.menu {
+    list-style-type: none;
+    padding: 0;
+    overflow: hidden;
+    width: 100%;
+    margin: 0 auto;
+    line-height: 150px;
+    display: flex;
+    justify-content: flex-end;
+    
+
+  }
+  
+  .item-menu {
+    transition: all 0.1s;
+
+  }
+
+  .item-menu:hover{
+    transform: scale(1.4);
+  }
+  
+  .item-menu .link {
+    font-size: 1.3em;
+    font-weight: 600;
+    display: block;
+    text-align: center;
+    padding: 15px 16px;
+    text-decoration: none;
+    color:#57042a;
+    padding-right: 3rem;
+    font-weight: bold
+   
+  }
+  
+  body, input, button, textarea{
+    font: 600 18px Nunito, sans-serif;
+    margin: 0;
+    box-sizing: border-box;
+  }
+
+  .iconeMenu{
+    flex-direction: row-reverse;
+    width: 50px;
+    width:50px ;
+  }
